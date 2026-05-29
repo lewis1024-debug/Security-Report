@@ -56,16 +56,10 @@ All engagements follow the **Penetration Testing Execution Standard PTES**:
 ## **Tools Used**
 `Nmap` `Burp Suite` `Metasploit` `Wireshark` `Arpspoof` `LinPEAS` `Autopsy` `Semgrep` `Python` `Bash`
 
-## **Why This Matters to Clients**
-Clients don’t pay for exploits. They pay for clarity. Every report here answers 3 questions:
-1. **So what?** – Business impact in 30 seconds
-2. **How bad?** – CVSS + risk rating
-3. **What now?** – Prioritized, actionable fixes with timelines
-
-## lewis4chi@yahoo.com
-** chijioke chukwuemeka lewis ** 
+## Contact
+chijioke chukwuemeka lewis 
 VAPT | Network Security | Forensics 
-[Email] | | | GitHub: [your-github][LinkedIn][Location]
+lewis4chi@yahoo.com| | | GitHub: [lewisdebug1024][LinkedIn][Nigeria]
 
 *Open to VAPT, Red Team, and Security Analyst roles in Nigeria. Hybrid/Onsite.*
 
