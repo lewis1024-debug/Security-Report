@@ -62,8 +62,8 @@ Clients don’t pay for exploits. They pay for clarity. Every report here answer
 2. **How bad?** – CVSS + risk rating
 3. **What now?** – Prioritized, actionable fixes with timelines
 
-## **Contact**
-**[Your Name]** 
+## lewis4chi@yahoo.com
+** chijioke chukwuemeka lewis ** 
 VAPT | Network Security | Forensics 
 [Email] | | | GitHub: [your-github][LinkedIn][Location]
 
