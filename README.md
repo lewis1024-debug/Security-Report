@@ -57,9 +57,9 @@ All engagements follow the **Penetration Testing Execution Standard PTES**:
 `Nmap` `Burp Suite` `Metasploit` `Wireshark` `Arpspoof` `LinPEAS` `Autopsy` `Semgrep` `Python` `Bash`
 
 ## Contact
-chijioke chukwuemeka lewis 
+## **chijioke chukwuemeka lewis**
 VAPT | Network Security | Forensics 
-lewis4chi@yahoo.com| | | GitHub: [lewisdebug1024][LinkedIn][Nigeria]
+lewis4chi@yahoo.com| | | GitHub: [lewisdebug1024] [Nigeria]
 
 *Open to VAPT, Red Team, and Security Analyst roles in Nigeria. Hybrid/Onsite.*
 
